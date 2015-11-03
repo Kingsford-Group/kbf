@@ -10,4 +10,4 @@ libbf:
 
 ###### Compilation:
 
-g++ -std=c++11 -O3 -o kbf main.cpp -I <libbf include path> -I <Boost include path> -L <libbf lib path> -L <Boost lib path> -lbf
+g++ -std=c++11 -O3 -o kbf main.cpp -I [libbf include path] -I [Boost include path] -L [libbf lib path] -L [Boost lib path] -lbf
