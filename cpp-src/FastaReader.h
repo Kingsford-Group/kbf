@@ -1,3 +1,7 @@
+/*************************************************************
+* Copyright (c) David Pellow, Darya Filippova, Carl Kingsford
+*************************************************************/
+
 #ifndef FASTA_READER_H
 #define FASTA_READER_H
 

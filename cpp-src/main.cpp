@@ -1,3 +1,7 @@
+/*************************************************************
+* Copyright (c) David Pellow, Darya Filippova, Carl Kingsford
+*************************************************************/
+
 #include <fstream>
 #include <memory>
 #include <unordered_set>

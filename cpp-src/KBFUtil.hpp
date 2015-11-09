@@ -1,3 +1,7 @@
+/*************************************************************
+* Copyright (c) David Pellow, Darya Filippova, Carl Kingsford
+*************************************************************/
+
 #ifndef KBF_UTIL
 #define KBF_UTIL
 

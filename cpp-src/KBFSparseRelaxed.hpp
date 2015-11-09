@@ -1,3 +1,7 @@
+/*************************************************************
+* Copyright (c) David Pellow, Darya Filippova, Carl Kingsford
+*************************************************************/
+
 #ifndef LIB_KBF_SR
 #define LIB_KBF_SR
 

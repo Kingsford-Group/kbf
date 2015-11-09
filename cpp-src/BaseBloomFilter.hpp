@@ -1,3 +1,7 @@
+/*************************************************************
+* Copyright (c) David Pellow, Darya Filippova, Carl Kingsford
+*************************************************************/
+
 #ifndef LIB_BASE_BLOOM_FILTER
 #define LIB_BASE_BLOOM_FILTER
 
