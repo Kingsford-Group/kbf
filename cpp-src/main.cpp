@@ -94,7 +94,7 @@ vector<kmer_t> sample_kmers(unordered_set<kmer_t> & kmer_set, int const set_size
 // main
 /////////////////////////////////////////////////////////
 // Usage:
-//./sbf <input fasta> <query fasta> <k> [outfile prefix = 'test'] [# queries = 1000000] [use all TP = false]
+//./kbf <input fasta> <query fasta> <k> [outfile prefix = 'test'] [# queries = 1000000] [use all TP = false]
 int main(int argc, char* argv[]) {
     cerr << "==============================" << endl;
     cerr << "Starting Sequence Bloom Filter" << endl;
@@ -103,7 +103,7 @@ int main(int argc, char* argv[]) {
     if (argc < 3) {
         cerr << "\tMissing required arguments." << endl;
         cerr << "\tUsage:" << endl;
-        cerr << "\tsbf <reads.fa> <k> [outfile prefix = 'test'] [# queries = 1M] [use all TP = 'false']" << endl;
+        cerr << "\tkbf <reads.fa> <k> [outfile prefix = 'test'] [# queries = 1M] [use all TP = 'false']" << endl;
         exit(1);
     }
 
