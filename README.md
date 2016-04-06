@@ -17,7 +17,7 @@ the space while maintaining the original false positive rate.
 More details are available at:
 
 ``` 
-Pellow, Filippova, and Kingsford. "Improving Bloom filter performance on sequence data using k-mer Bloom filters"
+Pellow, Filippova, and Kingsford. "Improving Bloom filter performance on sequence data using k-mer Bloom filters" To appear in RECOMb 2016.
 ```
 
 --------
